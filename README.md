@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shinchann7342 (aka) Vasanth Kumar K
-- 👀 I’m interested in ... Data science (data analysis)
-- 🌱 I’m currently learning ... python,jupyter
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in ... Data Analysis
+- 🌱 I’m currently learning ... Python,Jupyter
+- 💞️ I’m looking to collaborate on ... Data analysis projects
 - 📫 How to reach me ... ksvasanth7342@gmail.com
 
 <!---
